@@ -2,6 +2,7 @@
 
 ## Start here
 
+* `pip install -r requirements.txt`
 * This will use the official NASA API, so you will need a key from here: https://api.nasa.gov/
 * You will need to create an api.py file with
 
