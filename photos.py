@@ -4,9 +4,6 @@ import argparse
 import multiprocessing
 import os
 import requests
-import requests
-
-
 
 
 parser = argparse.ArgumentParser(
