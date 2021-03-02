@@ -1,4 +1,4 @@
-# Mars Rover's photo downloader
+# Mars Rovers photo downloader
 
 ## Start here
 
